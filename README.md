@@ -1,28 +1,21 @@
-# Skills-Lab-6
-Skills Lab 6: Version Control
+# Final-Group-Project
+Team Name: C&C
 
-Made by: Christine Glascott, Jack Brooks, Luke Cusato
+Canvas Group: Final Project Group 6
 
-This code takes user input asking for the users name. It then asks for input asking the users favorite food. 
+Group Members: 
+Christine Glascott - cag301@pitt.edu
+Ciara Dwyer - cmd255@pitt.edu
 
-It then takes the input and if the users input is = pizza, the program expresses a shared likeness with pizza. If not, the program shares that it likes a different food than the user. This program is dynamic as it accepts any string input.
+Data sets:
+1. Home Owners - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/262d10d1-1e49-41f6-bb8a-0c4511a9085c
+Description: This data sets lists the housing values of different aged home owners(under 25 years old, 25 to 44 years old, 45 to 64 years old, and 65 and older) from different pittsburgh neighborhoods. This data can be used to determine which age group has the highest housing value, which age group has the most home owners, and more. 
 
-# To Access On JupyterHub
-1. Log into SCI JupyterHub and start a terminal 
-2. Type in git clone git@github.com:cag301/Skills-Lab-6.git and then press the enter key on your computer 
-3. This should upload the folder into your JupterHub file explorer as "Skills-Lab-6" 
-4. By double clicking on the new folder, you should be able to see all contents, including the code file, README.md, LICENSE.md, and CODE-OF-CONDUCT.md
-5. Then you can double-click on any of those files to test the code or read the information. If you need any help, as any of the three creators. 
+2. Pittsburgh Census - https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
+Description: This data set lists the population by neighborhood in pittsburgh. This data can be used to determine which neighborhood has the largest population, which neighborhood has the smalllest population, and more. 
+   
+3. Pittsburgh Arrests - https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+Description: This data set has a record of all arrests made in Pittsburgh. This data set has information on the location, neighborhood, and time of the arrest as well as basic demographics of the arrested individual. This data can be used to determine which neighborhood has the most arrests, which neighborhood has the least arrests, and more. 
 
-# Contributing
-To contribute to our project please read our CODE-OF-CONDUCT.md . 
-
-Futhermore, JupyterLab follows the Jupyter Community Guides.
-
-# License 
-Skills-Lab-6 uses a shared copyright model that all contributurs to main their own personal copyright on their contribution when they clone the repository. For more details visit the LICENSE.md .
-
-Futhermore, the Skills-Lab is also under JupyterHub. JupyterHub also uses a shared copyright model that enables all contributors to maintain the copyright on their contributions. All code is licensed under the terms of the revised BSD license.
-
-# Why we chose our license and code of conduct
-As a team we created on our code of conduct to make our repository a safe and respectful space for all contributors and we made our code of conduct have a shared copyright so that the repository is free to access and open to anyone. 
+Description of Repository: 
+This repository analyzes and visualizes different datasets from Pittsburgh neighborhoods (housing owners, census, and arrests) to determine which neighborhood is the best to live in.
